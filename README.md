@@ -13,7 +13,8 @@
 ### About Me
 [![Zero's github stats](https://github-readme-stats.vercel.app/api?username=atleastzero&theme=dark&show_icons=true)](https://github.com/atleastzero/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atleastzero&theme=dark&layout=compact)](https://github.com/atleastzero/github-readme-stats)
-My Work At Make School: https://github.com/ZeroClasswork
+
+My Work At Make School is Being Organized Into: https://github.com/ZeroClasswork
 
 ### Languages I've used
 

@@ -1,3 +1,4 @@
+![image](https://raw.githubusercontent.com/atleastzero/atleastzero/main/atleastzero_logo_full.png)
 
 ## Hey hey hey, I'm Megan, AKA atleastzero
 

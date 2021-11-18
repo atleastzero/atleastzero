@@ -2,21 +2,22 @@
 
 ## Hey hey hey, I'm Megan, AKA atleastzero
 
-- Currently I'm studying Applied Computer Science at Make School in San Francisco
-- Pronouns: No real preference but she/her might be easiest
-- Right now I consider myself on track for a full-stack web career
-- Some day I'd love to get more into Augmented Reality
+- I'm a recent graduate from the artist formerly known as Make School / Dominican University of California, where I majored in Applied Computer Science and concentrated in Backend Web Development
+- Starting 11/29/2021, I'll be working at Kin + Carta, participating in their Accelerator Program as Junior Software Engineer.
+- Pronouns: No real preference, usually I say she/they
+- Some day I'd love to get more into Augmented Reality. #CyberPunkAF
+- Right now, I'm thrilled to be focused on Web Development.
 - I have a blog-sume @[atleastzero.blog](https://atleastzero.blog)
 - Hit me up below:
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megan.obryan52@gmail.com)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megan@atleastzero.codes)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atleastzero/)
 
 ### About Me
 [![Zero's github stats](https://github-readme-stats.vercel.app/api?username=atleastzero&theme=dark&show_icons=true)](https://github.com/atleastzero/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atleastzero&theme=dark&layout=compact)](https://github.com/atleastzero/github-readme-stats)
 
-My Work At Make School is Being Organized Into: https://github.com/ZeroClasswork
+My work from Make School is being organized into: https://github.com/ZeroClasswork
 
 ### Languages I've used
 

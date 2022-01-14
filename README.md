@@ -2,9 +2,9 @@
 
 ## Hey hey hey, I'm Megan, AKA atleastzero
 
-- I'm a recent graduate from the artist formerly known as Make School / Dominican University of California, where I majored in Applied Computer Science and concentrated in Backend Web Development
-- Starting 11/29/2021, I'll be working at Kin + Carta, participating in their Accelerator Program as Junior Software Engineer.
-- Pronouns: No real preference, usually I say she/they
+- I'm a recent graduate from Dominican University of California, where I majored in Applied Computer Science and concentrated in Backend Web Development.
+- Working at Kin+Carta as a Technical Analyst. Currently in the Kin Accelerator Program (KAP)
+- Pronouns: No real preference, usually I say she/they.
 - Some day I'd love to get more into Augmented Reality. #CyberPunkAF
 - Right now, I'm thrilled to be focused on Web Development.
 - I have a blog-sume @[atleastzero.blog](https://atleastzero.blog)
@@ -17,7 +17,8 @@
 [![Zero's github stats](https://github-readme-stats.vercel.app/api?username=atleastzero&theme=dark&show_icons=true)](https://github.com/atleastzero/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atleastzero&theme=dark&layout=compact)](https://github.com/atleastzero/github-readme-stats)
 
-My work from Make School is being organized into: https://github.com/ZeroClasswork
+My work from Make School / DU of CA is being organized into: [ZeroClasswork](https://github.com/ZeroClasswork)
+My training stuff is being organized into: [ZeroTraining](https://github.com/ZeroTraining)
 
 ### Languages I've used
 

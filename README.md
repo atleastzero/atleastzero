@@ -18,6 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atleastzero&theme=dark&layout=compact)](https://github.com/atleastzero/github-readme-stats)
 
 My work from Make School / DU of CA is being organized into: [ZeroClasswork](https://github.com/ZeroClasswork)
+
 My training stuff is being organized into: [ZeroTraining](https://github.com/ZeroTraining)
 
 ### Languages I've used

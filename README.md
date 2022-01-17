@@ -14,8 +14,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atleastzero/)
 
 ### About Me
-[![Zero's github stats](https://github-readme-stats.vercel.app/api?username=atleastzero&theme=dark&show_icons=true)](https://github.com/atleastzero/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atleastzero&theme=dark&layout=compact)](https://github.com/atleastzero/github-readme-stats)
+[![Zero's github stats](https://github-readme-stats.vercel.app/api?username=atleastzero&theme=dark&show_icons=true&count_private=true)](https://github.com/atleastzero/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atleastzero&theme=dark&layout=compact&count_private=true)](https://github.com/atleastzero/github-readme-stats)
 
 My work from Make School / DU of CA is being organized into: [ZeroClasswork](https://github.com/ZeroClasswork)
 
